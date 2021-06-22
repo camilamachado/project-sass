@@ -59,7 +59,7 @@ $dark-grey: #464646;
     padding: 20px 0;
     font-family: Arial, Helvetica, sans-serif;
     // Este trecho de estilo posiciona o footer na parte de baixo
-    position: absolute;
+    position: relative;
     bottom: 0;
     left: 50%;
     transform: translateX(-50%);
